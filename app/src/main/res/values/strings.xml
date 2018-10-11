@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Day9ext2</string>
+    <string-array name="company">
+        <item>Microsoft</item>
+        <item>Apple</item>
+        <item>Facebook</item>
+        <item>Ali Baba</item>
+        <item>Amazon</item>
+    </string-array>
+</resources>
